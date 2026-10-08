@@ -1,3 +1,3 @@
 ﻿# Git_Hasznalata
- #x Módosítunk egy kicsit
+# Módosítunk egy kicsit
 ###még egy kicsi
